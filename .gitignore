@@ -1,0 +1,8 @@
+*.bat
+*.vbs
+*.pychache
+.python-version
+.env.secret
+.html
+.idea
+myvenv

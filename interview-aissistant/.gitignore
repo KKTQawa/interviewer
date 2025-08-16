@@ -1,0 +1,9 @@
+*.bat
+*.vbs
+
+node_modules
+dist
+
+.vscode/*
+.idea
+
