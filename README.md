@@ -22,7 +22,7 @@ Vue 3
 ### 后端
 ⚡ FastAPI – 轻量高性能 Web 框架
 
-🐬 MySQL 数据库：使用 sqlpub 管理
+🐬 MySQL 数据库：使用 (sqlpub)[https://www.sqlpub.com] 管理
 
 ### 智能体系统
 🌟 讯飞星火大模型
