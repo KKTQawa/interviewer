@@ -35,7 +35,8 @@ Vue 3
 语音特征提取
 
 🎙️ SenseVoiceSmall（modelscope）
-语言情感识别（GitHub 地址）
+语言情感识别（[GitHub 仓库](https://github.com/FunAudioLLM/SenseVoice)）
+
 
 🔐 其他
 所有相关密钥均保存在以下文件中：
