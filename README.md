@@ -42,6 +42,19 @@
 - `interview_backend/main.py` 对外提供 API，调用 `interview.py`、`voice*.py`、`vedio*.py` 等能力模块。
 - `interview_backend/other` 主要是测试、备份和实验代码，正式运行通常不依赖此目录。
 
+## 预览
+
+<div>
+  <img src="./extra/home.png" width="32%">
+  <img src="./extra/home2.png" width="32%">
+  <img src="./extra/profile.png" width="32%">
+</div>
+
+<div style="margin-top: 8px;">
+  <img src="./extra/no_realtime.png" width="48%">
+  <img src="./extra/realtime.png" width="48%">
+</div>
+
 ## 运行
 
 ### 后端
